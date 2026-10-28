@@ -1,0 +1,9 @@
+google-api-python-client
+pandas
+numpy
+matplotlib
+seaborn
+isodate
+scikit-learn
+gradio
+joblib
